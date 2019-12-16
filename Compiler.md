@@ -30,5 +30,6 @@
 
 #### LR(0)分析
 
-1. CLOSURE & GOTO
-2. 
+1. [LR(0) items and LR(0) parsing table](https://www.youtube.com/watch?v=APJ_Eh60Qwo&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=10)
+2. [LR(0) parsing](https://www.youtube.com/watch?v=0kiTNN2kHyY&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=11)
+
