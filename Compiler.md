@@ -33,3 +33,11 @@
 1. [LR(0) items and LR(0) parsing table](https://www.youtube.com/watch?v=APJ_Eh60Qwo&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=10)
 2. [LR(0) parsing](https://www.youtube.com/watch?v=0kiTNN2kHyY&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=11)
 
+#### SLR(1)分析
+
+1. [SLR(1) table](https://www.youtube.com/watch?v=0kiTNN2kHyY&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=11)
+2. [examples](https://www.youtube.com/watch?v=MIg2ymmMn4k&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=12)
+
+## 语法制导的语义计算
+
+1.[SDT examples](https://www.youtube.com/watch?v=queUceGJqh0&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=17)
