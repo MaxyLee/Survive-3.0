@@ -38,6 +38,26 @@
 1. [SLR(1) table](https://www.youtube.com/watch?v=0kiTNN2kHyY&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=11)
 2. [examples](https://www.youtube.com/watch?v=MIg2ymmMn4k&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=12)
 
+## 符号表
+
+### Hash结构单符号表
+
+
+
+### 线性表结构单符号表
+
+
+
+### 多符号表
+
+通常，多符号表组织具有以下特点:
+
+- 每个作用域都有各自的符号表。 
+
+- 需要维护一个作用域栈，每个开作用域对应栈中的一个入口，当前的开作用域出现 在该栈的栈顶 
+- 当一个新的作用域开放时，新符号表将被创建，并将其入栈。 
+- 在当前作用域成为闭作用域时，从栈顶弹出相应的作用域。 
+
 ## 语法制导的语义计算
 
 1.[SDT examples](https://www.youtube.com/watch?v=queUceGJqh0&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&index=17)
